@@ -15,4 +15,4 @@ This project demonstrates a simple `Point` class in C++ with two primary functio
 - **Stream Insertion Operator (`<<`)**: Outputs the `Point` coordinates in a user-friendly format `(x, y)`.
 
 ## Requirements
-- A C++ compiler, such as `g++`, is required to compile the project.
+- A C++ compiler is required to compile the project.
